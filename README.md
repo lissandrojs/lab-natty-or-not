@@ -20,16 +20,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook de montagem de computador e principais erros 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um projeto de ebook voltado pra montagem de computador desktop, pc gamer ou ate mesmo uma maquina potente pra trabalhos pesados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chat-gpt e midjourney.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+buscado aborda topicos separado pra cada component, entender a importante de cada peça nao focar apenas no preço mas no desempenho esperado, buscar entender oque pode dar gragalhos de fps e como manter uma configuração ideal pra o objetivo final.
+alem dos componentes abordar topicos extra, focado no setup, monitor taxa de hz, qualidade de grafico hd ,2k , 4k e demais, teclados, mouses de dpi , fone e outros. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
